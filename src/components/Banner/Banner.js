@@ -70,8 +70,7 @@ const Banner = () => {
                        </div>
                         </div>
                  </div>
-                    
-                  
+  
                 </Carousel.Item>
             </Carousel>
         </div>
