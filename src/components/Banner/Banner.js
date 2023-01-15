@@ -20,7 +20,7 @@ const Banner = () => {
                         <div className='col-lg-5  d-flex align-items-center ps-3 pb-3'>
                             
                              <div>
-                             <h2>Bonsai</h2>
+                             <h2>Bonsai plant</h2>
                              <p className="fs-5">Bonsai is the Japanese art of growing and training miniature trees in containers, developed from the traditional Chinese art form of penjing.</p>
                              <h3>400 BDT</h3>
                             
